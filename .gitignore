@@ -11,11 +11,11 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.log
 local.properties
 .classpath
 .settings/
 .loadpath
-.idea
 
 # External tool builders
 .externalToolBuilders/
@@ -29,6 +29,11 @@ local.properties
 # PDT-specific
 .buildpath
 
+
+#################
+## WebStorm
+#################
+.idea
 
 #################
 ## Visual Studio
